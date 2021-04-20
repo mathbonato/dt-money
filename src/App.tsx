@@ -15,7 +15,7 @@ export function App() {
   function handleOpenNewTransactionModal() {
     setIsNewTransactionOpen(true);
   }
-s
+
   function handleCloseNewTransactionModal() {
     setIsNewTransactionOpen(false);
   }
